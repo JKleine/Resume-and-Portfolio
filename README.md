@@ -33,7 +33,7 @@ I'm interested in finding work, and participating in projects that are of intere
 - Helped document the entire project
 
 ## ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)  Projects
-**PlantCNN: A Plant Identifying CNN**
+![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **PlantCNN: A Plant Identifying CNN**
 
 ([Link to project Github](https://github.com/JKleine/PlantCNN18))  
 - The project is ongoing, and initially aimed to create a small classification CNN, which it successfuly did in phase 1. 
