@@ -11,7 +11,7 @@ I'm interested in finding work, and participating in projects that are of intere
 - Tools & Methods: Git, Docker, PyTorch, Scikit-Learn, CNN's
 
 ## ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)  Experience
-**Network Solutions**
+![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)**Network Solutions**
 
 (2007-2008, 2009-2012) 
   
