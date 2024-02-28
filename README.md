@@ -5,10 +5,10 @@ Computer Scientist
 I'm interested in finding work, and participating in projects that are of interest to me. My interests include Machine Learning, particularly Image Classification, as well as High Performance Computing.
 
 ## Skills
-- Programming Languages: Python, Java, JavaScript, HTML, CSS 
+- Programming Languages: Python, Java, JavaScript, HTML/CSS 
 - Web Frameworks: BootStrap
 - Databases: MySQL, MS Access
-- Tools & Methods: Git, Docker
+- Tools & Methods: Git, Docker, PyTorch, Scikit-Learn, CNN's
 
 ## Experience
 **Network Solutions**
