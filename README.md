@@ -17,6 +17,8 @@ I'm interested in finding work, and participating in projects that are of intere
   
 Web Designer / Project Manager
 - Succesfully build many websites and managed many website projects
+- Provided QA for many web design projects
+
 
 **NSF Research Project: A Modular MultiLayer Framework for Real-Time Hyperspectral Image Segmentation Documentation** 
 
