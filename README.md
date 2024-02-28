@@ -1,4 +1,4 @@
-#Jay William Kleine
+# - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0` Jay William Kleine
 Computer Scientist
 
 ## Summary
