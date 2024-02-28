@@ -33,11 +33,13 @@ Research Assistant
 **Associates of Science in Internet and Web-Based Technology**
 
 Ranken Technical College
+
 Graduated Spring 2009
 - Phi Theta Kappa honors
 
 **Bachelors of Science in Computer Science**
 
 University of North Georgia
+
 Graduated December 2023
 - President's List
