@@ -1,4 +1,4 @@
-<span style="color:blue"># Jay William Kleine</span>
+# <span style="color:blue">Jay William Kleine</span>
 Computer Scientist
 
 ## Summary
