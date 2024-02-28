@@ -26,6 +26,7 @@ Web Designer / Project Manager
 Research Assistant
 - Helped perform testing and research to improve Multi-Spectral Image Classification Models
 - Helped use Docker to containerize AI models to be ran on Supercomputers
+- Helped document the entire project
 
 ## Projects
 **PlantCNN: A Plant Identifying CNN**
