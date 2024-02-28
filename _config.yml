@@ -1,14 +1,14 @@
-title: Name  # Jay Kleine
+title: Jay William Kleine
 
 # logo: 1.png # Use a relative path to logo image
 
 description: Computer Science Resume and Portfolio. # Fix hyphenation 
 
-show_downloads: true # Fix spelling
+show_downloads: True # Fix spelling
 
 theme: jekyll-theme-minimal 
 
 plugins:
-  - jekyll-seo-tag # Add SEO plugin
+  - jekyll-seo-tag
 
-email: youremail@gmail.com # Allow visitors to contact you
+email: jaykleine@gmail.com 
