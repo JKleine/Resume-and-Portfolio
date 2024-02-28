@@ -1,4 +1,4 @@
-# Jay Kleine
+# Jay William Kleine
 Computer Scientist
 
 ## Summary
