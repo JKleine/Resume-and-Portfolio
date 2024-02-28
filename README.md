@@ -24,7 +24,7 @@ I'm interested in finding work, and participating in projects that are of intere
 
 (August - September 2023)
 
-### Research Assistant
+#### Research Assistant
 
 ([Link to project Github](https://jkleine.github.io/JupyterBookUpdate/intro.html))  
 
