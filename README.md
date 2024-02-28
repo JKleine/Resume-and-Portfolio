@@ -15,7 +15,7 @@ I'm interested in finding work, and participating in projects that are of intere
 
 (2007-2008, 2009-2012) 
   
-### Web Designer / Project Manager
+#### Web Designer / Project Manager
 - Succesfully build many websites and managed many website projects
 - Provided QA for many web design projects
 
