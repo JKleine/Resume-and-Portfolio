@@ -2,7 +2,7 @@
 Computer Scientist
 
 ## Summary
-I'm interested in finding work, and participating in projects that are of interest to me. I'm interested in Machine Learning, particularly Image Classification, and High Performance Computing.
+I'm interested in finding work, and participating in projects that are of interest to me. My interests include Machine Learning, particularly Image Classification, as well as High Performance Computing.
 
 ## Skills
 - Programming Languages: Python, Java, JavaScript, HTML, CSS 
