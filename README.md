@@ -11,7 +11,7 @@ I'm interested in finding work, and participating in projects that are of intere
 - Tools & Methods: Git, Docker, PyTorch, Scikit-Learn, CNN's
 
 ## ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)  Experience
-![#c5f015](https://placehold.co/15x15/c5f015/c5f0f5.png)**Network Solutions**
+![#c5f015](https://placehold.co/15x15/c5f015/c5f0f5.png) **Network Solutions**
 
 (2007-2008, 2009-2012) 
   
@@ -20,7 +20,7 @@ Web Designer / Project Manager
 - Provided QA for many web design projects
 
 
-**NSF Research Project: A Modular MultiLayer Framework for Real-Time Hyperspectral Image Segmentation Documentation** 
+![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **NSF Research Project: A Modular MultiLayer Framework for Real-Time Hyperspectral Image Segmentation Documentation** 
 
 (August - September 2023)
 
@@ -40,14 +40,14 @@ Research Assistant
 - It is currently on phase 2, which aims to test different model architectures, and investigate parameter and hyperparaeter adjustments to optimize the model
 
 ## ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)  Education
-**Associates of Science in Internet and Web-Based Technology**
+![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **Associates of Science in Internet and Web-Based Technology**
 
 Ranken Technical College
 
 Graduated Spring 2009
 - Phi Theta Kappa honors
 
-**Bachelors of Science in Computer Science**
+![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **Bachelors of Science in Computer Science**
 
 University of North Georgia
 
