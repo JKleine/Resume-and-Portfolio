@@ -1,8 +1,3 @@
-<style>
-red { color: red }
-yellow { color: yellow }
-</style>
-
 #Jay William Kleine
 Computer Scientist
 
