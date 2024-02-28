@@ -22,8 +22,10 @@ Web Designer / Project Manager
 
 (August - September 2023)
 
-([Link to project Github](https://jkleine.github.io/JupyterBookUpdate/intro.html))  
 Research Assistant
+
+([Link to project Github](https://jkleine.github.io/JupyterBookUpdate/intro.html))  
+
 - Helped perform testing and research to improve Multi-Spectral Image Classification Models
 - Helped use Docker to containerize AI models to be ran on Supercomputers
 - Helped document the entire project
