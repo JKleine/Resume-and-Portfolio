@@ -1,16 +1,16 @@
 # ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Jay William Kleine
 Computer Scientist
 
-## Summary
+## ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)  Summary
 I'm interested in finding work, and participating in projects that are of interest to me. My interests include Machine Learning, particularly Image Classification, as well as High Performance Computing.
 
-## Skills
+## ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)  Skills
 - Programming Languages: Python, Java, JavaScript, HTML/CSS 
 - Web Frameworks: BootStrap
 - Databases: MySQL, MS Access
 - Tools & Methods: Git, Docker, PyTorch, Scikit-Learn, CNN's
 
-## Experience
+## ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)  Experience
 **Network Solutions**
 
 (2007-2008, 2009-2012) 
@@ -32,14 +32,14 @@ Research Assistant
 - Helped use Docker to containerize AI models to be ran on Supercomputers
 - Helped document the entire project
 
-## Projects
+## ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)  Projects
 **PlantCNN: A Plant Identifying CNN**
 
 ([Link to project Github](https://github.com/JKleine/PlantCNN18))  
 - The project is ongoing, and initially aimed to create a small classification CNN, which it successfuly did in phase 1. 
 - It is currently on phase 2, which aims to test different model architectures, and investigate parameter and hyperparaeter adjustments to optimize the model
 
-## Education
+## ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)  Education
 **Associates of Science in Internet and Web-Based Technology**
 
 Ranken Technical College
